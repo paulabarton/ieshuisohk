@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uequeimur.woodchurchcommunitycentre.co.uk/sitemap.xml
